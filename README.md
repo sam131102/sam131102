@@ -1,5 +1,10 @@
-### Hi there 👋
-
+# 💫 About Me:
+🔭 **I’m currently working on:**  <br>
+Creating a cloud-based privacy focused video recording platform for recruiters and doctors using AWS<br>
+<br>👯 **I’m looking to collaborate on:**  <br>
+Web Devlopement and Android App Devlopment Projects<br>
+<br>🌱 **I’m currently learning:**  <br>Advanced AWS Services, TypeScript and REST APIs<br><br>💬 **Ask me about:** 
+<br>Java, TypeScript, AWS, MySQL, HTML/CSS and any general software development questions.<br>
 <!--
 **sam131102/sam131102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
