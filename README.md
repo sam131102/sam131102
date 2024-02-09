@@ -1,3 +1,8 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 # 💫 About Me:
 🔭 **I’m currently working on:**  <br>
 Creating a cloud-based privacy focused video recording platform for recruiters and doctors using AWS<br>
