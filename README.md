@@ -1,8 +1,3 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sam131102/count.svg" />
-</p>
-
 # 💫 About Me:
 🔭 **I’m currently working on:**  <br>
 Creating a cloud-based privacy focused video recording platform for recruiters and doctors using AWS<br>
@@ -11,6 +6,11 @@ Developing a portfolio website for myself<br>
 Web Devlopement and Android App Devlopment Projects<br>
 <br>🌱 **I’m currently learning:**  <br>Advanced AWS Services, TypeScript and REST APIs<br><br>💬 **Ask me about:** 
 <br>Java, TypeScript, AWS, MySQL, HTML/CSS and any general software development questions.<br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sam131102/count.svg" />
+</p>
 <!--
 **sam131102/sam131102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
