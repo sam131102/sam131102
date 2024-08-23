@@ -1,10 +1,11 @@
 # 💫 About Me:
 🔭 **I’m currently working on:**  <br>
+AppSage for Curious Markings <br>
 Creating a personal expense tracker<br>
-Developing a portfolio website for myself<br>
 <br>👯 **I’m looking to collaborate on:**  <br>
 Web Devlopement and Android App Devlopment Projects<br>
-<br>🌱 **I’m currently learning:**  <br>React<br><br>💬 **Ask me about:** 
+<br>🌱 **I’m currently learning:**  <br>Rails<br><br>
+💬 **Ask me about:** 
 <br>Java, TypeScript, AWS, MySQL, HTML/CSS and any general software development questions.<br>
 
 <p align="center"> 
