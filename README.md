@@ -4,7 +4,7 @@ AppSage for Curious Markings <br>
 MacroSage <br>
 <br>👯 **I’m looking to collaborate on:**  <br>
 Web Devlopement and Android App Devlopment Projects<br>
-<br>🌱 **I’m currently learning:**  <br>Rails<br><br>
+<br>🌱 **I’m currently learning:**  <br>Ruby on Rails<br><br>
 💬 **Ask me about:** 
 <br>Java, TypeScript, AWS, MySQL, HTML/CSS and any general software development questions.<br>
 
