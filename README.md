@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 **I’m currently working on:**  <br>
 AppSage for Curious Markings <br>
-Creating a personal expense tracker<br>
+MacroSage <br>
 <br>👯 **I’m looking to collaborate on:**  <br>
 Web Devlopement and Android App Devlopment Projects<br>
 <br>🌱 **I’m currently learning:**  <br>Rails<br><br>
